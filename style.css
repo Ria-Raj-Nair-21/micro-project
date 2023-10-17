@@ -1,0 +1,193 @@
+
+        .row {
+            margin: 0;
+            padding: 0;   
+        }
+
+        .row1 {
+            height: 77vh;
+            background: #FFCD9E;
+            display: flex;
+            align-items: center;
+        }
+
+        .row2 {
+            height: 33vh;
+            background: #282828;
+            display: flex;
+        }
+        .text-container {
+            font-family: Inter;
+            font-size: 36px;
+            font-weight: 700;
+            line-height: 54px;
+            letter-spacing: 0em;
+            text-align: left;
+            width: 562px;
+            height: 108px;
+            top: 83px;
+            left: 136px;
+            position: absolute;
+            color: #282828;
+        }
+        .second-text-container {
+            font-family: Inter;
+            font-size: 19px;
+            font-weight: 500;
+            line-height: 32px;
+            letter-spacing: 0em;
+            text-align: left;
+            width: 495px;
+            height: 81px;
+            top: 219px;
+            left: 136px;
+            position: absolute;
+            color: #484848;
+
+        }
+        .third-text-container{
+            font-family: Inter;
+            font-size: 20px;
+            font-weight: 800;
+            line-height: 32px;
+            letter-spacing: 0em;
+            text-align: left;
+            width: 227px;
+            height: 81px;
+            top: 315px;
+            left: 136px;
+            position: absolute;
+            color: #282828;
+
+  
+
+        }
+        
+        .other-element {
+           width: 344px;
+           height: 64px;
+           position: absolute;
+           top: 411px;
+           left: 136px;
+           border-radius: 8px;
+           border: 4px solid #000000;
+         
+           font-family: Inter;
+           font-size: 20px;
+           font-weight: 600;
+           line-height: 64px;
+           letter-spacing: 0em;
+           text-align: center;
+           color: #888888;
+           background-color: #FFFFFF;
+
+
+
+  }
+
+
+.register-button {
+    width: 216px;
+    height: 64px;
+    position: absolute;
+    top: 411px;
+    left: 496px;
+    border-radius: 8px;
+    background: linear-gradient(0deg,  #000000,#000000);
+    border: 4px solid #000000;
+    color: #fff;
+    font-size: 20px; 
+    text-align: center;
+    line-height: 64px; 
+    cursor: pointer;
+    
+  }
+  .fifth{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    position: absolute;
+    width: 344px;
+    height: 61px;
+    top: 479px;
+    left: 134px;
+    color: #FFFFFF;
+
+
+  }
+
+  .image-container {
+            flex: 1;
+            background: #FFCD9E;
+            display: flex;
+            justify-content: flex-end;
+            padding-right: 20px;
+        }
+
+        .image-container img {
+            max-height: 100%;
+            max-width: 100%;
+        }
+        .list-container-left {
+            flex: 1;
+            display: flex;
+            justify-content: flex-start;
+           
+            padding-left: 200px;
+        }
+
+        .list-container-left ul {
+            list-style: none;
+            padding: 0;
+        }
+        .si{
+            margin-top: 26px;
+        }
+
+        .list-container-left ul li {
+            color: #FFFFFF;
+            font-family: Inter;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 32px;
+            letter-spacing: 0em;
+            text-align: left;
+
+        }
+
+        .list-container {
+            flex: 1;
+            display: flex;
+            justify-content: flex-end;
+            
+            padding-right: 200px;
+        }
+
+        .list-container ul {
+            list-style: none;
+            padding: 0;
+        }
+        .ir{
+            margin-top: 26px;
+            
+        }
+        .it{
+            margin-top: 24px;
+        }
+
+        .list-container ul li {
+            font-family: Inter;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 32px;
+            letter-spacing: 0em;
+            text-align: right;
+            color: #FFFFFF;
+           
+        }
+
+        
+    
